@@ -88,6 +88,7 @@ export default function RootLayout({
                         ]
                     })}
                 </script>
+                <link rel="canonical" href="https://biraul-bhumi-calculator.vercel.app" />
                 <meta name="google-site-verification" content="OV5IoKM5V9iZbIahwtwb9OnflnzCuKU94fF5-T_aS1g" />
             </Head>
             <body
