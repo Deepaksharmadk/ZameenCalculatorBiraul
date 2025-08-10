@@ -57,6 +57,8 @@ export const metadata: Metadata = {
         description: "Land area calculation tool with complete list of post offices for pincode 847203, Darbhanga, Bihar.",
         url: "https://biraul-bhumi-calculator.vercel.app",
         type: "website",
+    }, verification: {
+        google: "OV5IoKM5V9iZbIahwtwb9OnflnzCuKU94fF5-T_aS1g", // ✅ Google verification yahan rakho
     }
 };
 
