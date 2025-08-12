@@ -12,7 +12,7 @@ export const metadata = {
     ],
 };
 
-export default function SanjayCyberCenterPage() {
+export default function BiraulBhumiCalculatorPage() {
     // Agar hamesha home pe redirect karna hai
     redirect("/");
 
